@@ -27,3 +27,7 @@ an	attempt	to	login	using a	honeyword,	it	raises	an	alarm indicating that	the
 password	file	has been	compromised.	
 Honeywords	aren’t	visible	to	users and	don’t	in	any	way	change	their experience
 when	they	log	in	using	passwords.
+
+For more information you can view the following sites:
+1) https://people.csail.mit.edu/rivest/honeywords/faq.pdf
+2) https://people.csail.mit.edu/rivest/honeywords/gen.py
