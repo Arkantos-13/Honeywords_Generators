@@ -1,4 +1,6 @@
 # Honeywords-Generators
+
+
 Honeywords	are	a	defense	against	stolen	password	files.	Specifically,	they	
 are	bogus	passwords	placed	in	the	password	file	of	an	authentication	server to	
 deceive	attackers.	Honeywords resemble	ordinary,	user-selected	passwords.	It’s
