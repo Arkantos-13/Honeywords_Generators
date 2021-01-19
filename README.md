@@ -31,5 +31,6 @@ Honeywords	aren’t	visible	to	users and	don’t	in	any	way	change	their experie
 when	they	log	in	using	passwords.
 
 For more information you can view the following sites:
-1) https://people.csail.mit.edu/rivest/honeywords/faq.pdf
-2) https://people.csail.mit.edu/rivest/honeywords/gen.py
+1) https://people.csail.mit.edu/rivest/pubs/JR13.pdf
+2) https://people.csail.mit.edu/rivest/honeywords/faq.pdf
+3) https://people.csail.mit.edu/rivest/honeywords/gen.py
