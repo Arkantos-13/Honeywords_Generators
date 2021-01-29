@@ -30,7 +30,7 @@ password	file	has been	compromised.
 Honeywords	aren’t	visible	to	users and	don’t	in	any	way	change	their experience
 when	they	log	in	using	passwords.
 
-For more information you can view the following urls which are the original papers:
+For more information you can view the following urls:
 1) https://people.csail.mit.edu/rivest/pubs/JR13.pdf
 2) https://people.csail.mit.edu/rivest/honeywords/faq.pdf
 3) https://people.csail.mit.edu/rivest/honeywords/gen.py
