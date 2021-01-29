@@ -34,3 +34,5 @@ For more information you can view the following urls:
 1) https://people.csail.mit.edu/rivest/pubs/JR13.pdf
 2) https://people.csail.mit.edu/rivest/honeywords/faq.pdf
 3) https://people.csail.mit.edu/rivest/honeywords/gen.py
+
+In the file Honeywords Generator we are able to find the dataset of honeywords i use in my code
