@@ -36,7 +36,7 @@ In the middle column, in a random row, we can view the real password of the user
 #### <h1 align="center">
 General Example how they work:
   
-Fake Passwords | Real Password | Final Passwords
+Fake Passwords | Real Password |  Honeywords  |
 ------------   | ------------  | ------------ |
 kebrton1       |               |   kebrton1   |
 02123dia       |               |   forlinux   |
