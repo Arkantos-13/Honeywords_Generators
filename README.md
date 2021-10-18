@@ -14,16 +14,16 @@ our	paper). Which	is	the	real	password?
 
 <h1 align="center">
   
-Passwords |
------------- |
-kebrton1|
-02123dia|
-a71ger|
-forlinux|
-1erapc|
-avanture32|
-sbgo864959|
-aiwkme523|
+Fake Passwords | Real Password | Final Passwords
+------------   | ------------  | ------------ |
+kebrton1       |               |
+02123dia       | Arkantos      |
+a71ger         |               |
+forlinux       |               |
+1erapc|        |               |
+avanture32|    |               |
+sbgo864959|    |               |
+aiwkme523|     |               |
   
 </h1>
 
