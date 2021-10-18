@@ -30,8 +30,6 @@ In the middle column, in a random row, we can view the real password of the user
 
 ## **Different Examples of Honeywords**
 <br>
-
-
 #### <h1 align="center">
 General Example:
   
