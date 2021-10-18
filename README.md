@@ -28,14 +28,14 @@ As you can view, in the left column, we have the fake passwords, that our honeyw
 In the middle column, in a random row, we can view the real password of the user and finally, in the right column, we can view the final dataset of passwords for the user.
 
 #### <h1 align="center">
-General Example
+General Example of how they work
   
 Fake Passwords | Real Password | Final Passwords
 ------------   | ------------  | ------------ |
 kebrton1       |               |    kebrton1  |
 02123dia       |               |    forlinux  |
 a71ger         |               |    avanture32|
-forlinux       |    Arkantos   |    sbgo864959|
+forlinux       | Arkantos-13   |    sbgo864959|
 1erapc         |               |    02123dia  |
 avanture32     |               |    Arkantos  |
 sbgo864959     |               |    aiwkme523 |
@@ -44,7 +44,22 @@ aiwkme523      |               |    1erapc    |
   
 </h1>
 
-
+#### <h1 align="center">
+Honeywords made by one of my generator
+  
+Real Password  | Final Passwords
+ ------------  | ------------    |
+     <br>      |    ARKAnToS-13  |
+     <br>      |    ARKAntoS-13  |
+     <br>      |    aRkanTos-13  |
+  Arkantos-13  |    arKAnTOs-13  |
+    <br>       |    aRKAntOS-13  |
+    <br>       |   ARkANToS-13   |
+    <br>       |   arkaNtos-13   |
+    <br>       |   Arkantos-13   |
+    <br>       |   arKaNtOs-13   |
+  
+</h1>
 ## **Now, it's time for us to understand how honeywords actually work.**
 <br>
 
