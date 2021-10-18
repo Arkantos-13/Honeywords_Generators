@@ -8,6 +8,7 @@ hard	therefore	for	an	attacker	that steals	a	honeyword-laced password	file	to
 distinguish	between	honeywords	and	true user passwords.	(“Honey” is	an	old	term	
 for	decoy	resources in	computing	environments.	To	the	best	of	our	knowledge,	the	
 term	“honeywords”	was	coined	in	this	paper.)
+
 For	example,	one	of	the	following	passwords	is	a	true	user	password.	The	rest	are	
 honeywords (generated	using	the simple	“chaffing-with-a-password”	algorithm in	
 our	paper). Which	is	the	real	password?
@@ -16,14 +17,15 @@ our	paper). Which	is	the	real	password?
   
 Fake Passwords | Real Password | Final Passwords
 ------------   | ------------  | ------------ |
-kebrton1       |               |
-02123dia       | Arkantos      |
-a71ger         |               |
-forlinux       |               |
-1erapc         |               |
-avanture32      |               |
-sbgo864959     |               |
-aiwkme523      |               | 
+kebrton1       |               |    kebrton1  |
+02123dia       |   Arkantos    |    forlinux  |
+a71ger         |               |    avanture32|
+forlinux       |               |    sbgo864959|
+1erapc         |               |    02123dia  |
+avanture32     |               |    Arkantos  |
+sbgo864959     |               |    aiwkme523 |
+aiwkme523      |               |    1erapc    |
+               |               |    a71ger    |
 </h1>
 
 
