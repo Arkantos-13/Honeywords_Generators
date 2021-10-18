@@ -12,7 +12,8 @@ For	example,	one	of	the	following	passwords	is	a	true	user	password.	The	rest	ar
 honeywords (generated	using	the simple	“chaffing-with-a-password”	algorithm in	
 our	paper). Which	is	the	real	password?
 
-<h1 align="center">Passwords |
+<h1 align="center">
+  Passwords |
 ------------ |
 kebrton1|
 02123dia|
@@ -21,7 +22,8 @@ forlinux|
 1erapc|
 avanture32|
 sbgo864959|
-aiwkme523|</h1>
+aiwkme523|
+</h1>
 
 
 An attacker	that	has	stolen	a	password	file may	crack its	hashed	passwords	(see	
