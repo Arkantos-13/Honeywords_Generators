@@ -42,15 +42,15 @@ General Example:
   
 Fake Passwords | Real Password | Final Passwords
 ------------   | ------------  | ------------ |
-kebrton1       |               |    kebrton1  |
-02123dia       |               |    forlinux  |
-a71ger         |               |    avanture32|
-forlinux       | Arkantos-13   |    sbgo864959|
-1erapc         |               |    02123dia  |
+kebrton1       |               |   kebrton1   |
+02123dia       |               |   forlinux   |
+a71ger         |               |   avanture32 |
+forlinux       |  Arkantos-13  |   sbgo864959 |
+1erapc         |               |   02123dia   |
 avanture32     |               |   Arkantos-13|
-sbgo864959     |               |    aiwkme523 |
-aiwkme523      |               |    1erapc    |
-   <br>        |      <br>     |    a71ger    |
+sbgo864959     |               |   aiwkme523  |
+aiwkme523      |               |   1erapc     |
+   <br>        |      <br>     |   a71ger     |
   
 </h1>
 
@@ -59,11 +59,11 @@ Honeywords made by one of my generator from a given passoword:
   
 |Real Password  | Final Passwords |
 | ------------  | ------------    |
-|     <br>      |    ARKAnToS-13  |
-|     <br>      |    ARKAntoS-13  |
-|     <br>      |    aRkanTos-13  |
-|  Arkantos-13  |    ARkANToS-13  |
-|    <br>       |    arKAnTOs-13  |
+|     <br>      |   ARKAnToS-13   |
+|     <br>      |   ARKAntoS-13   |
+|     <br>      |   aRkanTos-13   |
+|  Arkantos-13  |   ARkANToS-13   |
+|    <br>       |   arKAnTOs-13   |
 |    <br>       |   ArKanTOS-13   |
 |    <br>       |   Arkantos-13   |
 |    <br>       |   arKantOS-13   |
@@ -102,7 +102,7 @@ Finally. If a honeyword-enabled system detects an attempt to log in using a hone
 
 ## **References**
 
-**If you are interested in honeywords and how they were created click on the links below: **
+**If you are interested in honeywords and how they were created click on the links below:**
 
 1.  [Here - The original paper](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
 2.  [Here - FAQ on Honeywords](https://people.csail.mit.edu/rivest/honeywords/faq.pdf)
