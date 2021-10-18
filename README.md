@@ -51,6 +51,6 @@ when	they	log	in	using	passwords.
 
 **If you are interested in honeywords and how they were created click on the links below, in order to view the original papers**
 
-1. [Here](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
-2. (Here)[https://people.csail.mit.edu/rivest/honeywords/faq.pdf]
-3. (Here)[https://people.csail.mit.edu/rivest/honeywords/gen.py]
+1. [Here - The original paper](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
+2. [Here - FAQ on Honeywords](https://people.csail.mit.edu/rivest/honeywords/faq.pdf)
+3. [Here - The first generators ever](https://people.csail.mit.edu/rivest/honeywords/gen.py)
