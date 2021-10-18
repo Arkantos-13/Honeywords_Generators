@@ -42,7 +42,7 @@ kebrton1       |               |    kebrton1  |
 a71ger         |               |    avanture32|
 forlinux       | Arkantos-13   |    sbgo864959|
 1erapc         |               |    02123dia  |
-avanture32     |               |    Arkantos  |
+avanture32     |               |   Arkantos-13|
 sbgo864959     |               |    aiwkme523 |
 aiwkme523      |               |    1erapc    |
    <br>        |      <br>     |    a71ger    |
