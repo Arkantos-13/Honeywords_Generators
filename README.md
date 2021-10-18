@@ -30,6 +30,7 @@ In the middle column, in a random row, we can view the real password of the user
 
 ## **Different Examples of Honeywords**
 
+<br>
 
 #### <h1 align="center">
 General Example:
@@ -64,6 +65,7 @@ Honeywords made by one of my generator from a given passoword:
 |    <br>       |   arKaNtOs-13   |
   
 </h1>
+
 
 
 ## **Now, it's time for us to understand how honeywords actually work.**
