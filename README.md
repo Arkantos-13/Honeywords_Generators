@@ -27,10 +27,11 @@ As you can view, in the left column, we have the fake passwords, that our honeyw
 
 In the middle column, in a random row, we can view the real password of the user and finally, in the right column, we can view the final dataset of passwords for the user.
 <br>
+
 ## **Different Examples of Honeywords**
 
 #### <h1 align="center">
-General Example of how they work
+General Example:
   
 Fake Passwords | Real Password | Final Passwords
 ------------   | ------------  | ------------ |
@@ -62,6 +63,8 @@ Honeywords made by one of my generator from a given passoword:
 |    <br>       |   arKaNtOs-13   |
   
 </h1>
+
+
 ## **Now, it's time for us to understand how honeywords actually work.**
 <br>
 
