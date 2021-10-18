@@ -28,6 +28,7 @@ As you can view, in the left column, we have the fake passwords, that our honeyw
 In the middle column, in a random row, we can view the real password of the user and finally, in the right column, we can view the final dataset of passwords for the user.
 
 #### <h1 align="center">
+General Example
   
 Fake Passwords | Real Password | Final Passwords
 ------------   | ------------  | ------------ |
