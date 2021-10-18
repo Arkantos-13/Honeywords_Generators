@@ -1,7 +1,9 @@
 <h1 align="center">Honeywords Generators</h1>
 
+## **What	are	honeywords**
+<br>
 
-* Honeywords	are	a	defense	against	stolen	password	files.	
+Honeywords	are	a	defense	against	stolen	password	files.	
 Specifically,	they are	bogus	passwords	placed	in	the	password	file	of	an	authentication	server to	deceive	attackers.	
 Honeywords resemble	ordinary,	user-selected	passwords.	
 It’s hard	therefore	for	an	attacker	that steals	a	honeyword-laced password	file	to	
@@ -12,6 +14,7 @@ distinguish	between	honeywords	and	true user passwords.
 
 
 ## **How honeywords protects us?**
+
 <br>
 To be more specific about how honeywords protect us, without we even know about them, let's see the table below and explain it a lit bit more.
 
@@ -40,7 +43,7 @@ aiwkme523      |               |    1erapc    |
 </h1>
 
 
-## **Now, it's time for us to understand how these actually work.**
+## **Now, it's time for us to understand how honeywords actually work.**
 <br>
 
 Before we move on, we need to understand that honeywords aren’t visible to users or anyone else and that they are created by a generator we have chosen before. 
