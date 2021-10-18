@@ -43,7 +43,8 @@ aiwkme523      |               |    1erapc    |
 ## **Now, it's time for us to understand how these actually work.**
 <br>
 
-Before we move on, we need to understand that honeywords aren’t visible to users or anyone else and that they are created by a generator we have chosen before. The generator creates the honeywords, then the honeychecker shuffle them all together and then save all the possible passwords for each user.
+Before we move on, we need to understand that honeywords aren’t visible to users or anyone else and that they are created by a generator we have chosen before. 
+The generator creates the honeywords, then the honeychecker shuffle them all together and then save all the possible passwords for each user.
 That's why they are so powerful and crucial in cyber security.
 Some generators create honeywords based on the real passwords of the users or they can create random passwords, however, something like this doesn't protect us quite enough.
 
