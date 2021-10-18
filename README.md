@@ -60,12 +60,13 @@ Honeywords made by one of my generator from a given passoword:
 |     <br>      |   ARKAnToS-13   |
 |     <br>      |   ARKAntoS-13   |
 |     <br>      |   aRkanTos-13   |
-|  Arkantos-13  |   ARkANToS-13   |
-|    <br>       |   arKAnTOs-13   |
+|     <br>      |   ARkANToS-13   |
+| Arkantos-13   |   arKAnTOs-13   |
 |    <br>       |   ArKanTOS-13   |
 |    <br>       |   Arkantos-13   |
 |    <br>       |   arKantOS-13   |
 |    <br>       |   arKaNtOs-13   |
+|    <br>       |   arKaNtOS-13   |
   
 </h1>
 
