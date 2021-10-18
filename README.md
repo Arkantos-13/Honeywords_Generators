@@ -26,6 +26,8 @@ If we have more users, we have to do the exact same for each one.
 As you can view, in the left column, we have the fake passwords, that our honeywords generator assumes that created for us, or in other words, these are the honeywords we are going to use.
 
 In the middle column, in a random row, we can view the real password of the user and finally, in the right column, we can view the final dataset of passwords for the user.
+<br>
+## **Different Examples of Honeywords**
 
 #### <h1 align="center">
 General Example of how they work
@@ -45,18 +47,18 @@ aiwkme523      |               |    1erapc    |
 </h1>
 
 #### <h1 align="center">
-Honeywords made by one of my generator
+Honeywords made by one of my generator from a given passoword:
   
 |Real Password  | Final Passwords |
 | ------------  | ------------    |
 |     <br>      |    ARKAnToS-13  |
 |     <br>      |    ARKAntoS-13  |
 |     <br>      |    aRkanTos-13  |
-|  Arkantos-13  |    arKAnTOs-13  |
-|    <br>       |    aRKAntOS-13  |
-|    <br>       |   ARkANToS-13   |
-|    <br>       |   arkaNtos-13   |
+|  Arkantos-13  |    ARkANToS-13  |
+|    <br>       |    arKAnTOs-13  |
+|    <br>       |   ArKanTOS-13   |
 |    <br>       |   Arkantos-13   |
+|    <br>       |   arKantOS-13   |
 |    <br>       |   arKaNtOs-13   |
   
 </h1>
