@@ -9,7 +9,7 @@ distinguish	between	honeywords	and	true user passwords.	(“Honey” is	an	old	t
 for	decoy	resources in	computing	environments.	To	the	best	of	our	knowledge,	the	
 term	“honeywords”	was	coined	in	this	paper.)
 
-To be more specific about how honeywords protect us, without we even know about them, let's see the table below and explain it a lit bit more.
+- To be more specific about how honeywords protect us, without we even know about them, let's see the table below and explain it a lit bit more.
 
 Before we begin, make sure that is an implementation for only a random user. 
 
