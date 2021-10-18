@@ -76,6 +76,11 @@ Honeywords made by one of my generator from a given passoword:
 ## **Now, it's time for us to understand how honeywords actually work.**
 <br>
 
+<p align="center">
+  <img src="https://seguranca-informatica.pt/wp-content/uploads/2019/12/070218_1439_DetectingDa2.jpg" />
+</p>
+
+
 Before we move on, we need to understand that honeywords aren’t visible to users or anyone else and that they are created by a generator we have chosen before. 
 The generator creates the honeywords, then the honeychecker shuffle them all together and then save all the possible passwords for each user.
 That's why they are so powerful and crucial in cyber security.
