@@ -1,13 +1,15 @@
 <h1 align="center">Honeywords Generators</h1>
 
 
-* Honeywords	are	a	defense	against	stolen	password	files.	Specifically,	they	
-are	bogus	passwords	placed	in	the	password	file	of	an	authentication	server to	
-deceive	attackers.	Honeywords resemble	ordinary,	user-selected	passwords.	It’s
-hard	therefore	for	an	attacker	that steals	a	honeyword-laced password	file	to	
-distinguish	between	honeywords	and	true user passwords.	(“Honey” is	an	old	term	
-for	decoy	resources in	computing	environments.	To	the	best	of	our	knowledge,	the	
-term	“honeywords”	was	coined	in	this	paper.)
+* Honeywords	are	a	defense	against	stolen	password	files.	
+Specifically,	they are	bogus	passwords	placed	in	the	password	file	of	an	authentication	server to	deceive	attackers.	
+Honeywords resemble	ordinary,	user-selected	passwords.	
+It’s hard	therefore	for	an	attacker	that steals	a	honeyword-laced password	file	to	
+distinguish	between	honeywords	and	true user passwords.	
+
+“Honey” is	an	old	term for	decoy	resources in	computing	environments.	
+
+
 
 ## **How honeywords protects us?**
 <br>
@@ -38,14 +40,24 @@ aiwkme523      |               |    1erapc    |
 </h1>
 
 
-An attacker	that	has	stolen	a	password	file may	crack its	hashed	passwords	(see	
-Questions	4	and	5	 below)	and	attempt to	impersonate	users.	Given	the	presence	of	
-honeywords,	though,	such	an attacker is	unlikely to	guess	a	user’s true	password	
-and	likely	instead	to	submit	a	honeyword.	If	a honeyword-enabled	system	detects	
-an	attempt	to	login	using a	honeyword,	it	raises	an	alarm indicating that	the	
-password	file	has been	compromised.	
-Honeywords	aren’t	visible	to	users and	don’t	in	any	way	change	their experience
-when	they	log	in	using	passwords.
+## **Now, it's time for us to understand how these actually work.**
+<br>
+
+Before we move on, we need to understand that honeywords aren’t visible to users or anyone else and that they are created by a generator we have chosen before. The generator creates the honeywords, then the honeychecker shuffle them all together and then save all the possible passwords for each user.
+That's why they are so powerful and crucial in cyber security.
+Some generators create honeywords based on the real passwords of the users or they can create random passwords, however, something like this doesn't protect us quite enough.
+
+
+Let's suppose that an attacker has stolen a password file that contains the passwords of users in groups, just like the third column in the table above we just explain. 
+Given the presence of honeywords, though, such an attacker is extremely unlikely to guess a user’s true password for the first time and more likely instead to submit a honeyword while he tries to have access in a random account. 
+As we all may know from maths, the possibilities of an attacker to guess the right password out of the total passwords (K) are 1/K. 
+To put it simply, the biggest number K the fewer possibilities for the attacker to gain access.
+For example, if we have created twenty (20) honeywords for a user, plus his real one (1) password, then the total amount of possible passwords the attacker has to guess from are twenty-one (21), K = 21. 
+In other words, the possibilities are 1/21 or 0.047 or 4.7 %.
+
+
+Finally. If a honeyword-enabled system detects an attempt to log in using a honeyword then raises an alarm indicating that the password file has been compromised because no one would know to type the honeywords.
+
 
 <br>
 
