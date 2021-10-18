@@ -11,7 +11,7 @@ distinguish	between	honeywords	and	true user passwords.
 
 “Honey” is	an	old	term for	decoy	resources in	computing	environments.	
 
-
+<br><br>
 
 ## **How honeywords protects us?**
 
