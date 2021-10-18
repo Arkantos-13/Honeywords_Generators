@@ -18,9 +18,9 @@ our	paper). Which	is	the	real	password?
 Fake Passwords | Real Password | Final Passwords
 ------------   | ------------  | ------------ |
 kebrton1       |               |    kebrton1  |
-02123dia       |   Arkantos    |    forlinux  |
+02123dia       |               |    forlinux  |
 a71ger         |               |    avanture32|
-forlinux       |               |    sbgo864959|
+forlinux       |    Arkantos   |    sbgo864959|
 1erapc         |               |    02123dia  |
 avanture32     |               |    Arkantos  |
 sbgo864959     |               |    aiwkme523 |
