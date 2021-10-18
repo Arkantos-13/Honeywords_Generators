@@ -12,7 +12,7 @@ For	example,	one	of	the	following	passwords	is	a	true	user	password.	The	rest	ar
 honeywords (generated	using	the simple	“chaffing-with-a-password”	algorithm in	
 our	paper). Which	is	the	real	password?
 
-<h1 align="center">
+<h1 align="center">####
   
 Fake Passwords | Real Password | Final Passwords
 ------------   | ------------  | ------------ |
@@ -20,10 +20,10 @@ kebrton1       |               |
 02123dia       | Arkantos      |
 a71ger         |               |
 forlinux       |               |
-1erapc|        |               |
-avanture32|    |               |
-sbgo864959|    |               |
-aiwkme523|     |               | 
+1erapc         |               |
+avanture32      |               |
+sbgo864959     |               |
+aiwkme523      |               | 
 </h1>
 
 
