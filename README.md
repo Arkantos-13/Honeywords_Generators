@@ -3,6 +3,7 @@
 ## **What	are	honeywords ?**
 <br>
 
+![](https://seguranca-informatica.pt/wp-content/uploads/2019/12/070218_1439_DetectingDa1.jpg)
 Honeywords	are	a	defense	against	stolen	password	files.	
 Specifically,	they are	bogus	passwords	placed	in	the	password	file	of	an	authentication	server to	deceive	attackers.	
 Honeywords resemble	ordinary,	user-selected	passwords.	
