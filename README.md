@@ -11,12 +11,15 @@ term	“honeywords”	was	coined	in	this	paper.)
 
 ## **How honeywords protects us?**
 
+
 To be more specific about how honeywords protect us, without we even know about them, let's see the table below and explain it a lit bit more.
 
 Before we begin, make sure that is an implementation for only a random user. 
 
 If we have more users, we have to do the exact same for each one.
+
 As you can view, in the left column, we have the fake passwords, that our honeywords generator assumes that created for us, or in other words, these are the honeywords we are going to use.
+
 In the middle column, in a random row, we can view the real password of the user and finally, in the right column, we can view the final dataset of passwords for the user.
 
 #### <h1 align="center">
