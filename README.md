@@ -47,17 +47,17 @@ aiwkme523      |               |    1erapc    |
 #### <h1 align="center">
 Honeywords made by one of my generator
   
-Real Password  | Final Passwords
- ------------  | ------------    |
-     <br>      |    ARKAnToS-13  |
-     <br>      |    ARKAntoS-13  |
-     <br>      |    aRkanTos-13  |
-  Arkantos-13  |    arKAnTOs-13  |
-    <br>       |    aRKAntOS-13  |
-    <br>       |   ARkANToS-13   |
-    <br>       |   arkaNtos-13   |
-    <br>       |   Arkantos-13   |
-    <br>       |   arKaNtOs-13   |
+|Real Password  | Final Passwords |
+| ------------  | ------------    |
+|     <br>      |    ARKAnToS-13  |
+|     <br>      |    ARKAntoS-13  |
+|     <br>      |    aRkanTos-13  |
+|  Arkantos-13  |    arKAnTOs-13  |
+|    <br>       |    aRKAntOS-13  |
+|    <br>       |   ARkANToS-13   |
+|    <br>       |   arkaNtos-13   |
+|    <br>       |   Arkantos-13   |
+|    <br>       |   arKaNtOs-13   |
   
 </h1>
 ## **Now, it's time for us to understand how honeywords actually work.**
