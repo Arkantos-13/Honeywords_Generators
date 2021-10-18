@@ -92,7 +92,7 @@ Finally. If a honeyword-enabled system detects an attempt to log in using a hone
 
 ## **References**
 
-**If you are interested in honeywords and how they were created click on the links below, in order to view the original papers**
+**If you are interested in honeywords and how they were created click on the links below: **
 
 1.  [Here - The original paper](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
 2.  [Here - FAQ on Honeywords](https://people.csail.mit.edu/rivest/honeywords/faq.pdf)
