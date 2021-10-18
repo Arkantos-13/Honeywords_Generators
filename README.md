@@ -12,14 +12,16 @@ For	example,	one	of	the	following	passwords	is	a	true	user	password.	The	rest	ar
 honeywords (generated	using	the simple	“chaffing-with-a-password”	algorithm in	
 our	paper). Which	is	the	real	password?
 
-kebrton1,
-02123dia,
-a71ger,
-forlinux,
-1erapc,
-avanture32,
-sbgo864959,
-aiwkme523
+First Header |
+------------ |
+kebrton1|
+02123dia|
+a71ger|
+forlinux|
+1erapc|
+avanture32|
+sbgo864959|
+aiwkme523|
 
 An attacker	that	has	stolen	a	password	file may	crack its	hashed	passwords	(see	
 Questions	4	and	5	 below)	and	attempt to	impersonate	users.	Given	the	presence	of	
@@ -30,10 +32,8 @@ password	file	has been	compromised.
 Honeywords	aren’t	visible	to	users and	don’t	in	any	way	change	their experience
 when	they	log	in	using	passwords.
 
-**For more information you can view the following urls:**
+**If you are interested in honeywords and how they were created click on the links below, in order to view the original papers**
 
 1. (Here)[https://people.csail.mit.edu/rivest/pubs/JR13.pdf]
 2. (Here)[https://people.csail.mit.edu/rivest/honeywords/faq.pdf]
 3. (Here)[https://people.csail.mit.edu/rivest/honeywords/gen.py]
-
-In the file Honeywords Generator 1 we are able to find the dataset of honeywords I use in my code
