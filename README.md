@@ -13,8 +13,6 @@ honeywords (generated	using	the simple	“chaffing-with-a-password”	algorithm 
 our	paper). Which	is	the	real	password?
 
 <h1 align="center">
-  
-  
 Passwords |
 ------------ |
 kebrton1|
@@ -25,8 +23,6 @@ forlinux|
 avanture32|
 sbgo864959|
 aiwkme523|
-  
-  
 </h1>
 
 
