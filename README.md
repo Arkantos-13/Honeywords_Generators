@@ -1,9 +1,7 @@
-# Honeywords Generators
-
-***UPDATE IN PROGRESS***
+<h1 align="center">Honeywords Generators</h1>
 
 
-Honeywords	are	a	defense	against	stolen	password	files.	Specifically,	they	
+* Honeywords	are	a	defense	against	stolen	password	files.	Specifically,	they	
 are	bogus	passwords	placed	in	the	password	file	of	an	authentication	server to	
 deceive	attackers.	Honeywords resemble	ordinary,	user-selected	passwords.	It’s
 hard	therefore	for	an	attacker	that steals	a	honeyword-laced password	file	to	
@@ -32,9 +30,10 @@ password	file	has been	compromised.
 Honeywords	aren’t	visible	to	users and	don’t	in	any	way	change	their experience
 when	they	log	in	using	passwords.
 
-For more information you can view the following urls:
-1) https://people.csail.mit.edu/rivest/pubs/JR13.pdf
-2) https://people.csail.mit.edu/rivest/honeywords/faq.pdf
-3) https://people.csail.mit.edu/rivest/honeywords/gen.py
+** For more information you can view the following urls: **
+
+1. (Here)[https://people.csail.mit.edu/rivest/pubs/JR13.pdf]
+2. (Here)[https://people.csail.mit.edu/rivest/honeywords/faq.pdf]
+3. (Here)[https://people.csail.mit.edu/rivest/honeywords/gen.py]
 
 In the file Honeywords Generator 1 we are able to find the dataset of honeywords I use in my code
