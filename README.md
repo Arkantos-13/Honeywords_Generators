@@ -55,7 +55,7 @@ aiwkme523      |               |   1erapc     |
 #### <h1 align="center">
 Honeywords made by one of my generator from a given passoword:
   
-|Real Password  | Final Passwords |
+| Real Password |   Honeywords    |
 | ------------  | ------------    |
 |     <br>      |   ARKAnToS-13   |
 |     <br>      |   ARKAntoS-13   |
