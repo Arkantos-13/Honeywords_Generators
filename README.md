@@ -38,7 +38,7 @@ In the middle column, in a random row, we can view the real password of the user
 <br>
 
 #### <h1 align="center">
-General Example:
+General Example how they work:
   
 Fake Passwords | Real Password | Final Passwords
 ------------   | ------------  | ------------ |
@@ -53,6 +53,8 @@ aiwkme523      |               |   1erapc     |
    <br>        |      <br>     |   a71ger     |
   
 </h1>
+
+<br>
 
 #### <h1 align="center">
 Honeywords made by one of my generator from a given passoword:
@@ -75,6 +77,7 @@ Honeywords made by one of my generator from a given passoword:
 
 ## **Now, it's time for us to understand how honeywords actually work.**
 <br>
+
 
 <p align="center">
   <img src="https://seguranca-informatica.pt/wp-content/uploads/2019/12/070218_1439_DetectingDa2.jpg" />
