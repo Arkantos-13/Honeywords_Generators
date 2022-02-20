@@ -110,3 +110,6 @@ Finally. If a honeyword-enabled system detects an attempt to log in using a hone
 1.  [Here - The original paper](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
 2.  [Here - FAQ on Honeywords](https://people.csail.mit.edu/rivest/honeywords/faq.pdf)
 3.  [Here - The first generators ever](https://people.csail.mit.edu/rivest/honeywords/gen.py)
+
+
+<p align="center"> <a href="#top"> Back to top </a> </p>
